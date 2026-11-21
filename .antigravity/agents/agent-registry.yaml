@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-niger-canal-and-intervention-historian
-  name: Niger Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-niger-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ne_001
+    name: Niger Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_002
+    name: Niger Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_003
+    name: Niger Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_004
+    name: Niger Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_005
+    name: Niger Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_006
+    name: Niger Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_007
+    name: Niger Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_008
+    name: Niger Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_009
+    name: Niger Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_010
+    name: Niger Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_011
+    name: Niger Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_012
+    name: Niger Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_013
+    name: Niger Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_014
+    name: Niger Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_015
+    name: Niger Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_016
+    name: Niger Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_017
+    name: Niger Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_018
+    name: Niger Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_019
+    name: Niger Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_020
+    name: Niger Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_021
+    name: Niger Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_022
+    name: Niger Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_023
+    name: Niger Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_024
+    name: Niger Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_025
+    name: Niger Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_026
+    name: Niger Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_027
+    name: Niger Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_028
+    name: Niger Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_029
+    name: Niger Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_030
+    name: Niger Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_031
+    name: Niger Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_032
+    name: Niger Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_033
+    name: Niger Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_034
+    name: Niger Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_035
+    name: Niger Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_036
+    name: Niger Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_037
+    name: Niger Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_038
+    name: Niger Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_039
+    name: Niger Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_040
+    name: Niger Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_041
+    name: Niger Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_042
+    name: Niger Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_043
+    name: Niger Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_044
+    name: Niger Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_045
+    name: Niger Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_046
+    name: Niger Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_047
+    name: Niger Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_048
+    name: Niger Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_049
+    name: Niger Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_050
+    name: Niger Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_051
+    name: Niger Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_052
+    name: Niger Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_053
+    name: Niger Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_054
+    name: Niger Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_055
+    name: Niger Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_056
+    name: Niger Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_057
+    name: Niger Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_058
+    name: Niger Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_059
+    name: Niger Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_060
+    name: Niger Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_061
+    name: Niger Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_062
+    name: Niger Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_063
+    name: Niger Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_064
+    name: Niger Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_065
+    name: Niger Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_066
+    name: Niger Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_067
+    name: Niger Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_068
+    name: Niger Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_069
+    name: Niger Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_070
+    name: Niger Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_071
+    name: Niger Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_072
+    name: Niger Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_073
+    name: Niger Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_074
+    name: Niger Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_075
+    name: Niger Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_076
+    name: Niger Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_077
+    name: Niger Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_078
+    name: Niger Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_079
+    name: Niger Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_080
+    name: Niger Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_081
+    name: Niger Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_082
+    name: Niger Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_083
+    name: Niger Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_084
+    name: Niger Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_085
+    name: Niger Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_086
+    name: Niger Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_087
+    name: Niger Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_088
+    name: Niger Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_089
+    name: Niger Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_090
+    name: Niger Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_091
+    name: Niger Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_092
+    name: Niger Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_093
+    name: Niger Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_094
+    name: Niger Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_095
+    name: Niger Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_096
+    name: Niger Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_097
+    name: Niger Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_098
+    name: Niger Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_099
+    name: Niger Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_100
+    name: Niger Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_101
+    name: Niger Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_102
+    name: Niger Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_103
+    name: Niger Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_104
+    name: Niger Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_105
+    name: Niger Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_106
+    name: Niger Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_107
+    name: Niger Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_108
+    name: Niger Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_109
+    name: Niger Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_110
+    name: Niger Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_111
+    name: Niger Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_112
+    name: Niger Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_113
+    name: Niger Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_114
+    name: Niger Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_115
+    name: Niger Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_116
+    name: Niger Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_117
+    name: Niger Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_118
+    name: Niger Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_119
+    name: Niger Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_120
+    name: Niger Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_121
+    name: Niger Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_122
+    name: Niger Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_123
+    name: Niger Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_124
+    name: Niger Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_125
+    name: Niger Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_126
+    name: Niger Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_127
+    name: Niger Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_128
+    name: Niger Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_129
+    name: Niger Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_130
+    name: Niger Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_131
+    name: Niger Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_132
+    name: Niger Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_133
+    name: Niger Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_134
+    name: Niger Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_135
+    name: Niger Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_136
+    name: Niger Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_137
+    name: Niger Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_138
+    name: Niger Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_139
+    name: Niger Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_140
+    name: Niger Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_141
+    name: Niger Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_142
+    name: Niger Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_143
+    name: Niger Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_144
+    name: Niger Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_145
+    name: Niger Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_146
+    name: Niger Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_147
+    name: Niger Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_148
+    name: Niger Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_149
+    name: Niger Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_150
+    name: Niger Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_151
+    name: Niger Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_152
+    name: Niger Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_153
+    name: Niger Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_154
+    name: Niger Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_155
+    name: Niger Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_156
+    name: Niger Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_157
+    name: Niger Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_158
+    name: Niger Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_159
+    name: Niger Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_160
+    name: Niger Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_161
+    name: Niger Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_162
+    name: Niger Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_163
+    name: Niger Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_164
+    name: Niger Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_165
+    name: Niger Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_166
+    name: Niger Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_167
+    name: Niger Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_168
+    name: Niger Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_169
+    name: Niger Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ne_170
+    name: Niger Agent 170
+    status: ACTIVE_SCAFFOLD
