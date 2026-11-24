@@ -34,6 +34,5 @@
     "cf-cache-status": "DYNAMIC",
     "CF-RAY": "a5e2e8248ba9c777-MIA",
     "alt-svc": "h3=\":443\"; ma=86400"
-  },
-  "legal_review_status": "PENDING_LEGAL_REVIEW"
+  }
 }
